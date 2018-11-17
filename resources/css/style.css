@@ -1,18 +1,31 @@
 body {
+  color: white;
   text-align: center;
   font-family: verdana;
   background-color: black;
 }
 
 h1 {
-  color: white;
-
   font-weight: normal;
   font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.infotext {
+  font-size: 21px;
+  color: gray;
+}
+
+#footer {
+  text-align: right;
+  color: gray;
 }
 
 #links {
   color: aquamarine;
   size: 16px;
-
 }
